@@ -22,7 +22,7 @@ button {
   color: white;
   border: none;
 }
-button:hover {
+button:hover, .active {
   background-color: deepskyblue;
   color: lightblue;
 }
